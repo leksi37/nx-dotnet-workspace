@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "eNL6zaeMjH4PO2b3yUcu9b/G3PLfXjfVm2/y21GvEtDOZr+nO5SaXEmVN684KG2WuaCmhA1rpre4AK32/Cwe8Q==",
+  "success": true,
+  "projectFilePath": "/Users/dkAlAnAl/Code/monorepo-test/nx-dotnet-workspace/apps/another-lambda/src/NxDotnetWorkspace.AnotherLambda/NxDotnetWorkspace.AnotherLambda.csproj",
+  "expectedPackageFiles": [
+    "/Users/dkAlAnAl/.nuget/packages/amazon.lambda.core/2.1.0/amazon.lambda.core.2.1.0.nupkg.sha512",
+    "/Users/dkAlAnAl/.nuget/packages/amazon.lambda.serialization.systemtextjson/2.3.0/amazon.lambda.serialization.systemtextjson.2.3.0.nupkg.sha512",
+    "/Users/dkAlAnAl/.nuget/packages/microsoft.netcore.app.crossgen2.osx-arm64/6.0.8/microsoft.netcore.app.crossgen2.osx-arm64.6.0.8.nupkg.sha512"
+  ],
+  "logs": []
+}

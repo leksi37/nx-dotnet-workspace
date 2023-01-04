@@ -1,0 +1,15 @@
+/Users/dkAlAnAl/Code/monorepo-test/nx-dotnet-workspace/dist/apps/another-lambda/src/NxDotnetWorkspace.AnotherLambda/net6.0/NxDotnetWorkspace.AnotherLambda.deps.json
+/Users/dkAlAnAl/Code/monorepo-test/nx-dotnet-workspace/dist/apps/another-lambda/src/NxDotnetWorkspace.AnotherLambda/net6.0/NxDotnetWorkspace.AnotherLambda.runtimeconfig.json
+/Users/dkAlAnAl/Code/monorepo-test/nx-dotnet-workspace/dist/apps/another-lambda/src/NxDotnetWorkspace.AnotherLambda/net6.0/NxDotnetWorkspace.AnotherLambda.dll
+/Users/dkAlAnAl/Code/monorepo-test/nx-dotnet-workspace/dist/apps/another-lambda/src/NxDotnetWorkspace.AnotherLambda/net6.0/NxDotnetWorkspace.AnotherLambda.pdb
+/Users/dkAlAnAl/Code/monorepo-test/nx-dotnet-workspace/apps/another-lambda/src/NxDotnetWorkspace.AnotherLambda/obj/Debug/net6.0/NxDotnetWorkspace.AnotherLambda.csproj.AssemblyReference.cache
+/Users/dkAlAnAl/Code/monorepo-test/nx-dotnet-workspace/apps/another-lambda/src/NxDotnetWorkspace.AnotherLambda/obj/Debug/net6.0/NxDotnetWorkspace.AnotherLambda.GeneratedMSBuildEditorConfig.editorconfig
+/Users/dkAlAnAl/Code/monorepo-test/nx-dotnet-workspace/apps/another-lambda/src/NxDotnetWorkspace.AnotherLambda/obj/Debug/net6.0/NxDotnetWorkspace.AnotherLambda.AssemblyInfoInputs.cache
+/Users/dkAlAnAl/Code/monorepo-test/nx-dotnet-workspace/apps/another-lambda/src/NxDotnetWorkspace.AnotherLambda/obj/Debug/net6.0/NxDotnetWorkspace.AnotherLambda.AssemblyInfo.cs
+/Users/dkAlAnAl/Code/monorepo-test/nx-dotnet-workspace/apps/another-lambda/src/NxDotnetWorkspace.AnotherLambda/obj/Debug/net6.0/NxDotnetWorkspace.AnotherLambda.csproj.CoreCompileInputs.cache
+/Users/dkAlAnAl/Code/monorepo-test/nx-dotnet-workspace/apps/another-lambda/src/NxDotnetWorkspace.AnotherLambda/obj/Debug/net6.0/NxDotnetWorkspace.AnotherLambda.csproj.CopyComplete
+/Users/dkAlAnAl/Code/monorepo-test/nx-dotnet-workspace/apps/another-lambda/src/NxDotnetWorkspace.AnotherLambda/obj/Debug/net6.0/NxDotnetWorkspace.AnotherLambda.dll
+/Users/dkAlAnAl/Code/monorepo-test/nx-dotnet-workspace/apps/another-lambda/src/NxDotnetWorkspace.AnotherLambda/obj/Debug/net6.0/refint/NxDotnetWorkspace.AnotherLambda.dll
+/Users/dkAlAnAl/Code/monorepo-test/nx-dotnet-workspace/apps/another-lambda/src/NxDotnetWorkspace.AnotherLambda/obj/Debug/net6.0/NxDotnetWorkspace.AnotherLambda.pdb
+/Users/dkAlAnAl/Code/monorepo-test/nx-dotnet-workspace/apps/another-lambda/src/NxDotnetWorkspace.AnotherLambda/obj/Debug/net6.0/NxDotnetWorkspace.AnotherLambda.genruntimeconfig.cache
+/Users/dkAlAnAl/Code/monorepo-test/nx-dotnet-workspace/apps/another-lambda/src/NxDotnetWorkspace.AnotherLambda/obj/Debug/net6.0/ref/NxDotnetWorkspace.AnotherLambda.dll
